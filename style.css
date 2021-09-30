@@ -1,0 +1,13 @@
+
+.border-none{
+    outline: none;
+    border:none;
+    cursor:unset;
+}
+.blue{
+    color:blue;
+    margin-right: 3rem
+}
+.change{
+    margin-right: 3rem;
+}
